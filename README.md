@@ -8,21 +8,24 @@ Sebuah website perkenalan untuk perusahaan WebKu
 
 Halaman Utama
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](img/ss1.jpg)
 
 Halaman About
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](img/ss2.jpg)
+
+Halaman Service
+
+![App Screenshot](img/ss3.jpg)
 
 Halaman Blog
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](img/ss4.jpg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](img/ss5.jpg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 Halaman Kontak
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](img/ss6.jpg)
 
