@@ -1,4 +1,3 @@
-
 # WebKu
 
 Sebuah website perkenalan untuk perusahaan WebKu
@@ -8,24 +7,24 @@ Sebuah website perkenalan untuk perusahaan WebKu
 
 Halaman Utama
 
-![App Screenshot](img/ss1.jpg)
+![App Screenshot](img/ss1.png)
 
 Halaman About
 
-![App Screenshot](img/ss2.jpg)
+![App Screenshot](img/ss2.png)
 
 Halaman Service
 
-![App Screenshot](img/ss3.jpg)
+![App Screenshot](img/ss3.png)
 
 Halaman Blog
 
-![App Screenshot](img/ss4.jpg)
+![App Screenshot](img/ss4.png)
 
-![App Screenshot](img/ss5.jpg)
+![App Screenshot](img/ss5.png)
 
 
 Halaman Kontak
 
-![App Screenshot](img/ss6.jpg)
+![App Screenshot](img/ss6.png)
 
